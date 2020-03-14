@@ -1,4 +1,4 @@
-# ASPNETCore3.1-With-Swagger
+# DotNetCore3.1 with swagger
 
 ``` c#
 public void ConfigureServices(IServiceCollection services)
